@@ -1,0 +1,5 @@
+﻿  moc client.h
+  client.cpp
+  main.cpp
+  moc_client.cpp
+  client.vcxproj -> D:\Desktop\program design\Logistics management\client\x64\Debug\client.exe

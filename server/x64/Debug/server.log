@@ -1,0 +1,5 @@
+﻿  moc server.h
+  main.cpp
+  server.cpp
+  moc_server.cpp
+  server.vcxproj -> D:\Desktop\program design\Logistics management\server\x64\Debug\server.exe

@@ -1,0 +1,2 @@
+D:\Desktop\server\x64\Debug\server.exe
+D:\Desktop\program design\Logistics management\server\x64\Debug\server.exe

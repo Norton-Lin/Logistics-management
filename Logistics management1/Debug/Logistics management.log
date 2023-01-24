@@ -1,0 +1,4 @@
+﻿  Account.cpp
+D:\Desktop\program design\Logistics management\Logistics management\Account.cpp(248,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Desktop\program design\Logistics management\Logistics management\Account.cpp(251,23): warning C4018: “<”: 有符号/无符号不匹配
+  Logistics management.vcxproj -> D:\Desktop\program design\Logistics management\Logistics management\Debug\Logistics management.exe

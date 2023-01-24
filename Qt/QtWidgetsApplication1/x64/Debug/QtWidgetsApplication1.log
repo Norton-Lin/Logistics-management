@@ -1,0 +1,23 @@
+﻿  Account.cpp
+  CourierLoginWindow.cpp
+  CourierRegisterWindow.cpp
+  CourierWindow.cpp
+  Database.cpp
+  Goods.cpp
+  ManagerLoginWindow.cpp
+  ManagerWindow.cpp
+  QtWidgetsApplication1.cpp
+  UserLoginWindow.cpp
+  UserRegisterWindow.cpp
+  UserWindow.cpp
+  main.cpp
+  moc_CourierLoginWindow.cpp
+  moc_CourierRegisterWindow.cpp
+  moc_CourierWindow.cpp
+  moc_ManagerLoginWindow.cpp
+  moc_ManagerWindow.cpp
+  moc_QtWidgetsApplication1.cpp
+  moc_UserLoginWindow.cpp
+  moc_UserRegisterWindow.cpp
+  moc_UserWindow.cpp
+  QtWidgetsApplication1.vcxproj -> D:\Desktop\program design\Logistics management\Qt\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe

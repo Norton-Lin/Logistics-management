@@ -1,0 +1,21 @@
+﻿  Account.cpp
+  Database.cpp
+D:\Desktop\program design\Logistics management\Logistics management1\Database.cpp(333,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Goods.cpp
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(225,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(249,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(251,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(253,44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(255,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(295,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(297,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(299,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(301,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(342,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(344,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(346,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\program design\Logistics management\Logistics management1\Goods.cpp(348,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Interactive.cpp
+  main.cpp
+  正在生成代码...
+  Logistics management.vcxproj -> D:\Desktop\program design\Logistics management\Logistics management1\x64\Debug\Logistics management.exe
